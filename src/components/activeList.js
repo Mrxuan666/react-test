@@ -8,7 +8,7 @@ export default class activeList extends Component{
    render(){
       return(
           <div>
-             第二次修改冲突
+             第二次修改6s5q冲突
           </div>
       )
    }
